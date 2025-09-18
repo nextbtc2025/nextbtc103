@@ -45,6 +45,7 @@
     *   将以下配置内容复制到文件中：
       ```conf
       server=1
+      txindex=1
       rpcuser=nextbtc
       rpcpassword=nextbtc
       rpcbind=127.0.0.1
@@ -134,6 +135,7 @@ Here, you can experience the unique charm of mining, transfers, and the UTXO mod
     *   Copy the following configuration into the file:
       ```conf
       server=1
+      txindex=1
       rpcuser=nextbtc
       rpcpassword=nextbtc
       rpcbind=127.0.0.1
